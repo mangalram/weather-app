@@ -1,4 +1,4 @@
-console.log('client side javascript working')
+console.log('client side javascript worjking')
 
 // fetch('http://localhost:3000/weather?address=boston').then((response)=>{
 //     response.json().then((data)=>{
